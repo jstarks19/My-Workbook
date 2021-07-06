@@ -1,0 +1,32 @@
+.pens {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.pens h2 {
+  color: whitesmoke;
+  text-indent: 10px;
+  width: 100%;
+  font-size: 2rem;
+  padding: 0.3em 0em 0.3em 0em;
+  margin: 0;
+  border-radius: 10px 10px 0px 0px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.content {
+  font-family: arial;
+  transform: scale(0.8);
+  width: 400px;
+  background-color: var(--color-primary);
+  padding: 0.5em;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 800px) {
+  .pens {
+    flex-direction: column;
+  }
+}

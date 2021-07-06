@@ -1,0 +1,39 @@
+#contact-info {
+  padding: 2em;
+  display: flex;
+}
+
+.contact-item {
+  background-color: #ff6169a8;
+  border-radius: 2em;
+  padding: 0.5em 1em 0.5em 1em;
+  margin: 1em;
+  font-family: amaranth;
+  line-height: 0.5em;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-item a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.74);
+  margin-left: 0.5em;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+.contact-item label {
+  font-weight: bold;
+  color: #e0dddd;
+  letter-spacing: 0.5px;
+  font-size: 1.4em;
+}
+
+@media (max-width: 900px) {
+  #contact-info {
+    flex-direction: column;
+  }
+}
