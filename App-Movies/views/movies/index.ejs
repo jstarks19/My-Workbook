@@ -1,0 +1,15 @@
+<% layout('layouts/boilerplate') %> 
+    <h1>Movies</h1>
+    
+    <div class="movie-panel">
+        <% for (let movie of movies) { %>
+            <div class="movie-card">
+                <a href="/movie/<%=movie._id%> "><img src="/images/<%= movie.imgId %>.jpg" alt="" width="100px"></a>
+                <a href="/movie/<%=movie._id%> "><%= movie.title  %></a>
+                <span><%= movie.year %> </li>   
+            </div>
+        <% } %> 
+    </div> 
+    
+</body>
+</html>

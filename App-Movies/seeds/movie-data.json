@@ -1,0 +1,802 @@
+[
+    {
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "id": "tt0111161"
+    },
+    {
+      "title": "The Godfather",
+      "year": "1972",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "id": "tt0068646"
+    },
+    {
+      "title": "The Godfather: Part II",
+      "year": "1974",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+      "id": "tt0071562"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "rating": "R",
+      "genre": "Crime, Drama, Thriller",
+      "description": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "id": "tt0110912"
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "year": "1966",
+      "rating": "M",
+      "genre": "Adventure, Western",
+      "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "id": "tt0060196"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": "2008",
+      "rating": "PG-13",
+      "genre": "Action, Crime, Drama, Thriller",
+      "description": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+      "id": "tt0468569"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": "1957",
+      "rating": "Approved",
+      "genre": "Drama",
+      "description": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.",
+      "id": "tt0050083"
+    },
+    {
+      "title": "Schindler's List",
+      "year": "1993",
+      "rating": "R",
+      "genre": "Biography, Drama, History, War",
+      "description": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "id": "tt0108052"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "id": "tt0167260"
+    },
+    {
+      "title": "Fight Club",
+      "year": "1999",
+      "rating": "R",
+      "genre": "Drama",
+      "description": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...",
+      "id": "tt0137523"
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "1980",
+      "rating": "PG",
+      "genre": "Action, Adventure, Sci-Fi",
+      "description": "After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.",
+      "id": "tt0080684"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "2001",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "description": "A meek hobbit of The Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
+      "id": "tt0120737"
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1975",
+      "rating": "R",
+      "genre": "Drama",
+      "description": "Upon admittance to a mental institution, a brash rebel rallies the patients to take on the oppressive head nurse.",
+      "id": "tt0073486"
+    },
+    {
+      "title": "Inception",
+      "year": "2010",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Mystery, Sci-Fi, Thriller",
+      "description": "A skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.",
+      "id": "tt1375666"
+    },
+    {
+      "title": "Goodfellas",
+      "year": "1990",
+      "rating": "R",
+      "genre": "Biography, Crime, Drama, Thriller",
+      "description": "Henry Hill and his friends work their way up through the mob hierarchy.",
+      "id": "tt0099685"
+    },
+    {
+      "title": "Star Wars",
+      "year": "1977",
+      "rating": "PG",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+      "id": "tt0076759"
+    },
+    {
+      "title": "Seven Samurai",
+      "year": "1954",
+      "rating": "Unrated",
+      "genre": "Action, Drama",
+      "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+      "id": "tt0047478"
+    },
+    {
+      "title": "Forrest Gump",
+      "year": "1994",
+      "rating": "PG-13",
+      "genre": "Drama, Romance",
+      "description": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+      "id": "tt0109830"
+    },
+    {
+      "title": "The Matrix",
+      "year": "1999",
+      "rating": "R",
+      "genre": "Action, Adventure, Sci-Fi",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "id": "tt0133093"
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "2002",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "id": "tt0167261"
+    },
+    {
+      "title": "City of God",
+      "year": "2002",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+      "id": "tt0317248"
+    },
+    {
+      "title": "Se7en",
+      "year": "1995",
+      "rating": "R",
+      "genre": "Crime, Mystery, Thriller",
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+      "id": "tt0114369"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": "1991",
+      "rating": "R",
+      "genre": "Crime, Drama, Thriller",
+      "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+      "id": "tt0102926"
+    },
+    {
+      "title": "Once Upon a Time in the West",
+      "year": "1968",
+      "rating": "M",
+      "genre": "Adventure, Western",
+      "description": "Epic story of a mysterious stranger with a harmonica who joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+      "id": "tt0064116"
+    },
+    {
+      "title": "Casablanca",
+      "year": "1942",
+      "rating": "PG",
+      "genre": "Drama, Romance, War",
+      "description": "Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.",
+      "id": "tt0034583"
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": "1995",
+      "rating": "R",
+      "genre": "Crime, Mystery, Thriller",
+      "description": "A boat has been destroyed, criminals are dead, and the key to this mystery lies with the only survivor and his twisted, convoluted story beginning with five career crooks in a seemingly random police lineup.",
+      "id": "tt0114814"
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": "1981",
+      "rating": "PG",
+      "genre": "Action, Adventure",
+      "description": "Archeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.",
+      "id": "tt0082971"
+    },
+    {
+      "title": "Rear Window",
+      "year": "1954",
+      "rating": "Approved",
+      "genre": "Mystery, Thriller",
+      "description": "A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+      "id": "tt0047396"
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": "1946",
+      "rating": "Approved",
+      "genre": "Drama, Family, Fantasy",
+      "description": "An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.",
+      "id": "tt0038650"
+    },
+    {
+      "title": "Psycho",
+      "year": "1960",
+      "rating": "R",
+      "genre": "Horror, Mystery, Thriller",
+      "description": "A Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+      "id": "tt0054215"
+    },
+    {
+      "title": "Léon: The Professional",
+      "year": "1994",
+      "rating": "Unrated",
+      "genre": "Crime, Drama, Thriller",
+      "description": "A professional assassin rescues a young girl whose parents were killed in a police raid.",
+      "id": "tt0110413"
+    },
+    {
+      "title": "Sunset Blvd.",
+      "year": "1950",
+      "rating": "Not Rated",
+      "genre": "Drama, Film-Noir",
+      "description": "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.",
+      "id": "tt0043014"
+    },
+    {
+      "title": "American History X",
+      "year": "1998",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+      "id": "tt0120586"
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": "1979",
+      "rating": "R",
+      "genre": "Drama, War",
+      "description": "During the U.S.-Viet Nam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.",
+      "id": "tt0078788"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": "1991",
+      "rating": "R",
+      "genre": "Action, Sci-Fi, Thriller",
+      "description": "The cyborg who once tried to kill Sarah Connor is dead, and another T-101 must now protect her teenage son, John Connor, from an even more powerful and advanced Terminator, the T-1000.",
+      "id": "tt0103064"
+    },
+    {
+      "title": "Saving Private Ryan",
+      "year": "1998",
+      "rating": "TV-MA",
+      "genre": "Action, Drama, War",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "id": "tt0120815"
+    },
+    {
+      "title": "Memento",
+      "year": "2000",
+      "rating": "R",
+      "genre": "Mystery, Thriller",
+      "description": "A man, suffering from short-term memory loss, uses notes and tattoos to hunt for the man he thinks killed his wife.",
+      "id": "tt0209144"
+    },
+    {
+      "title": "City Lights",
+      "year": "1931",
+      "rating": "G",
+      "genre": "Comedy, Drama, Romance",
+      "description": "The Tramp struggles to help a blind flower girl he has fallen in love with.",
+      "id": "tt0021749"
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": "1964",
+      "rating": "Approved",
+      "genre": "Comedy, Sci-Fi, War",
+      "description": "An insane general starts a process to nuclear holocaust that a war room of politicians and generals frantically try to stop.",
+      "id": "tt0057012"
+    },
+    {
+      "title": "Alien",
+      "year": "1979",
+      "rating": "TV-14",
+      "genre": "Horror, Sci-Fi",
+      "description": "The commercial vessel Nostromo receives a distress call from an unexplored planet. After searching for survivors, the crew heads home only to realize that a deadly bioform has joined them.",
+      "id": "tt0078748"
+    },
+    {
+      "title": "Modern Times",
+      "year": "1936",
+      "rating": "Approved",
+      "genre": "Comedy, Drama",
+      "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+      "id": "tt0027977"
+    },
+    {
+      "title": "Spirited Away",
+      "year": "2001",
+      "rating": "PG",
+      "genre": "Animation, Adventure, Family, Fantasy",
+      "description": "In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into animals; and a bathhouse for these creatures.",
+      "id": "tt0245429"
+    },
+    {
+      "title": "North by Northwest",
+      "year": "1959",
+      "rating": "Approved",
+      "genre": "Action, Adventure, Crime, Mystery, Thriller",
+      "description": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+      "id": "tt0053125"
+    },
+    {
+      "title": "Back to the Future",
+      "year": "1985",
+      "rating": "PG",
+      "genre": "Adventure, Comedy, Sci-Fi",
+      "description": "A teenager is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.",
+      "id": "tt0088763"
+    },
+    {
+      "title": "Life Is Beautiful",
+      "year": "1997",
+      "rating": "PG-13",
+      "genre": "Comedy, Drama, Romance, War",
+      "description": "A Jewish man has a wonderful romance with the help of his humour, but must use that same quality to protect his son in a Nazi death camp.",
+      "id": "tt0118799"
+    },
+    {
+      "title": "The Shining",
+      "year": "1980",
+      "rating": "R",
+      "genre": "Horror, Mystery",
+      "description": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+      "id": "tt0081505"
+    },
+    {
+      "title": "The Pianist",
+      "year": "2002",
+      "rating": "R",
+      "genre": "Biography, Drama, History, War",
+      "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+      "id": "tt0253474"
+    },
+    {
+      "title": "Citizen Kane",
+      "year": "1941",
+      "rating": "Approved",
+      "genre": "Drama, Mystery",
+      "description": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+      "id": "tt0033467"
+    },
+    {
+      "title": "The Departed",
+      "year": "2006",
+      "rating": "R",
+      "genre": "Crime, Drama, Thriller",
+      "description": "An undercover state cop who has infiltrated an Irish gang and a mole in the police force working for the same mob race to track down and identify each other before being exposed to the enemy, after both sides realize their outfit has a rat.",
+      "id": "tt0407887"
+    },
+    {
+      "title": "M",
+      "year": "1931",
+      "rating": "Not Rated",
+      "genre": "Crime, Drama, Thriller",
+      "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+      "id": "tt0022100"
+    },
+    {
+      "title": "Paths of Glory",
+      "year": "1957",
+      "rating": "Approved",
+      "genre": "Drama, War",
+      "description": "When soldiers in World War I refuse to continue with an impossible attack, their superior officers decide to make an example of them.",
+      "id": "tt0050825"
+    },
+    {
+      "title": "Vertigo",
+      "year": "1958",
+      "rating": "Approved",
+      "genre": "Mystery, Romance, Thriller",
+      "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "id": "tt0052357"
+    },
+    {
+      "title": "Django Unchained",
+      "year": "2012",
+      "rating": "R",
+      "genre": "Adventure, Drama, Western",
+      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "id": "tt1853728"
+    },
+    {
+      "title": "Double Indemnity",
+      "year": "1944",
+      "rating": "Approved",
+      "genre": "Crime, Drama, Film-Noir, Thriller",
+      "description": "An insurance rep lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+      "id": "tt0036775"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": "2012",
+      "rating": "PG-13",
+      "genre": "Action, Crime, Thriller",
+      "description": "Eight years on, a new evil rises from where the Batman and Commissioner Gordon tried to bury it, causing the Batman to resurface and fight to protect Gotham City... the very city which brands him an enemy.",
+      "id": "tt1345836"
+    },
+    {
+      "title": "Aliens",
+      "year": "1986",
+      "rating": "R",
+      "genre": "Action, Adventure, Sci-Fi, Thriller",
+      "description": "The planet from 'Alien' has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?",
+      "id": "tt0090605"
+    },
+    {
+      "title": "Taxi Driver",
+      "year": "1976",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "A mentally unstable Viet Nam war veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+      "id": "tt0075314"
+    },
+    {
+      "title": "American Beauty",
+      "year": "1999",
+      "rating": "R",
+      "genre": "Drama",
+      "description": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend.",
+      "id": "tt0169547"
+    },
+    {
+      "title": "The Green Mile",
+      "year": "1999",
+      "rating": "R",
+      "genre": "Crime, Drama, Fantasy, Mystery",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "id": "tt0120689"
+    },
+    {
+      "title": "Gladiator",
+      "year": "2000",
+      "rating": "R",
+      "genre": "Action, Adventure, Drama",
+      "description": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+      "id": "tt0172495"
+    },
+    {
+      "title": "The Intouchables",
+      "year": "2011",
+      "rating": "R",
+      "genre": "Biography, Comedy, Drama",
+      "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caretaker.",
+      "id": "tt1675434"
+    },
+    {
+      "title": "WALL·E",
+      "year": "2008",
+      "rating": "G",
+      "genre": "Animation, Adventure, Family, Romance, Sci-Fi",
+      "description": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "id": "tt0910970"
+    },
+    {
+      "title": "The Lives of Others",
+      "year": "2006",
+      "rating": "R",
+      "genre": "Drama, Thriller",
+      "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+      "id": "tt0405094"
+    },
+    {
+      "title": "Toy Story 3",
+      "year": "2010",
+      "rating": "G",
+      "genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+      "id": "tt0435761"
+    },
+    {
+      "title": "The Great Dictator",
+      "year": "1940",
+      "rating": "Approved",
+      "genre": "Comedy, Drama, War",
+      "description": "Dictator Adenoid Hynkel has a doppelganger, a poor but kind Jewish barber living in the slums, who one day is mistaken for Hynkel.",
+      "id": "tt0032553"
+    },
+    {
+      "title": "The Prestige",
+      "year": "2006",
+      "rating": "PG-13",
+      "genre": "Drama, Mystery, Thriller",
+      "description": "The rivalry between two magicians becomes more exacerbated by their attempt to perform the ultimate illusion.",
+      "id": "tt0482571"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "year": "1971",
+      "rating": "X",
+      "genre": "Crime, Drama, Sci-Fi",
+      "description": "In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem... but not all goes to plan.",
+      "id": "tt0066921"
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "year": "1962",
+      "rating": "PG",
+      "genre": "Adventure, Biography, Drama, History, War",
+      "description": "A flamboyant and controversial British military figure and his conflicted loyalties during his World War I service in Arabia.",
+      "id": "tt0056172"
+    },
+    {
+      "title": "Amélie",
+      "year": "2001",
+      "rating": "R",
+      "genre": "Comedy, Romance",
+      "description": "Amelie, an innocent and naive girl in Paris, with her own sense of justice, decides to help those around her and along the way, discovers love.",
+      "id": "tt0211915"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "year": "1962",
+      "rating": "Approved",
+      "genre": "Crime, Drama, Mystery",
+      "description": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
+      "id": "tt0056592"
+    },
+    {
+      "title": "Reservoir Dogs",
+      "year": "1992",
+      "rating": "R",
+      "genre": "Crime, Thriller",
+      "description": "After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "id": "tt0105236"
+    },
+    {
+      "title": "Das Boot",
+      "year": "1981",
+      "rating": "R",
+      "genre": "Action, Adventure, Drama, History, War",
+      "description": "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.",
+      "id": "tt0082096"
+    },
+    {
+      "title": "The Lion King",
+      "year": "1994",
+      "rating": "G",
+      "genre": "Animation, Adventure, Drama, Family, Musical",
+      "description": "Tricked into thinking he killed his father, a guilt ridden lion cub flees into exile and abandons his identity as the future King.",
+      "id": "tt0110357"
+    },
+    {
+      "title": "Cinema Paradiso",
+      "year": "1988",
+      "rating": "PG",
+      "genre": "Drama",
+      "description": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+      "id": "tt0095765"
+    },
+    {
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": "1983",
+      "rating": "PG",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "description": "After rescuing Han Solo from the palace of Jabba the Hutt, the Rebels attempt to destroy the Second Death Star, while Luke Skywalker tries to bring his father back to the Light Side of the Force.",
+      "id": "tt0086190"
+    },
+    {
+      "title": "The Treasure of the Sierra Madre",
+      "year": "1948",
+      "rating": "Approved",
+      "genre": "Action, Adventure, Drama, Western",
+      "description": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+      "id": "tt0040897"
+    },
+    {
+      "title": "The Third Man",
+      "year": "1949",
+      "rating": "Approved",
+      "genre": "Film-Noir, Mystery, Thriller",
+      "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, black-market opportunist Harry Lime.",
+      "id": "tt0041959"
+    },
+    {
+      "title": "Once Upon a Time in America",
+      "year": "1984",
+      "rating": "R",
+      "genre": "Crime, Drama",
+      "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+      "id": "tt0087843"
+    },
+    {
+      "title": "Requiem for a Dream",
+      "year": "2000",
+      "rating": "Unrated",
+      "genre": "Drama",
+      "description": "The drug-induced utopias of four Coney Island individuals are shattered when their addictions become stronger.",
+      "id": "tt0180093"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "rating": "R",
+      "genre": "Drama, Romance, Sci-Fi",
+      "description": "A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with.",
+      "id": "tt0338013"
+    },
+    {
+      "title": "Full Metal Jacket",
+      "year": "1987",
+      "rating": "R",
+      "genre": "Drama, War",
+      "description": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "id": "tt0093058"
+    },
+    {
+      "title": "Oldboy",
+      "year": "2003",
+      "rating": "R",
+      "genre": "Drama, Mystery, Thriller",
+      "description": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.",
+      "id": "tt0364569"
+    },
+    {
+      "title": "Braveheart",
+      "year": "1995",
+      "rating": "R",
+      "genre": "Action, Biography, Drama, History, War",
+      "description": "When his secret bride is executed for assaulting an English soldier who tried to rape her, a commoner begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.",
+      "id": "tt0112573"
+    },
+    {
+      "title": "L.A. Confidential",
+      "year": "1997",
+      "rating": "TV-MA",
+      "genre": "Crime, Drama, Mystery, Thriller",
+      "description": "As corruption grows in 1950s LA, three policemen - the straight-laced, the brutal, and the sleazy - investigate a series of murders with their own brand of justice.",
+      "id": "tt0119488"
+    },
+    {
+      "title": "Bicycle Thieves",
+      "year": "1948",
+      "rating": "Not Rated",
+      "genre": "Crime, Drama",
+      "description": "A man and his son search for a stolen bicycle vital for his job.",
+      "id": "tt0040522"
+    },
+    {
+      "title": "Chinatown",
+      "year": "1974",
+      "rating": "TV-14",
+      "genre": "Crime, Drama, Mystery, Thriller",
+      "description": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
+      "id": "tt0071315"
+    },
+    {
+      "title": "Singin' in the Rain",
+      "year": "1952",
+      "rating": "G",
+      "genre": "Comedy, Musical, Romance",
+      "description": "A silent film production company and cast make a difficult transition to sound.",
+      "id": "tt0045152"
+    },
+    {
+      "title": "Princess Mononoke",
+      "year": "1997",
+      "rating": "PG-13",
+      "genre": "Animation, Adventure, Fantasy",
+      "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+      "id": "tt0119698"
+    },
+    {
+      "title": "Monty Python and the Holy Grail",
+      "year": "1975",
+      "rating": "PG",
+      "genre": "Adventure, Comedy, Fantasy",
+      "description": "King Arthur and his knights embark on a low-budget search for the Grail, encountering many very silly obstacles.",
+      "id": "tt0071853"
+    },
+    {
+      "title": "Metropolis",
+      "year": "1927",
+      "rating": "Not Rated",
+      "genre": "Drama, Sci-Fi",
+      "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+      "id": "tt0017136"
+    },
+    {
+      "title": "Rashomon",
+      "year": "1950",
+      "rating": "Unrated",
+      "genre": "Crime, Drama",
+      "description": "A heinous crime and its aftermath are recalled from differing points of view.",
+      "id": "tt0042876"
+    },
+    {
+      "title": "Some Like It Hot",
+      "year": "1959",
+      "rating": "Approved",
+      "genre": "Comedy",
+      "description": "When two musicians witness a mob hit, they flee the state in an all female band disguised as women, but further complications set in.",
+      "id": "tt0053291"
+    },
+    {
+      "title": "Amadeus",
+      "year": "1984",
+      "rating": "PG",
+      "genre": "Biography, Drama, Music",
+      "description": "The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.",
+      "id": "tt0086879"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "year": "1968",
+      "rating": "G",
+      "genre": "Adventure, Mystery, Sci-Fi",
+      "description": "Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+      "id": "tt0062622"
+    },
+    {
+      "title": "All About Eve",
+      "year": "1950",
+      "rating": "Approved",
+      "genre": "Drama",
+      "description": "An ingenue insinuates herself in to the company of an established but aging stage actress and her circle of theater friends.",
+      "id": "tt0042192"
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "year": "1957",
+      "rating": "Approved",
+      "genre": "Drama, Mystery",
+      "description": "Agatha Christie tale of a man on trial for murder: a trial featuring surprise after surprise.",
+      "id": "tt0051201"
+    },
+    {
+      "title": "The Sting",
+      "year": "1973",
+      "rating": "PG",
+      "genre": "Comedy, Crime, Drama",
+      "description": "In 1930s Chicago, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.",
+      "id": "tt0070735"
+    },
+    {
+      "title": "The Apartment",
+      "year": "1960",
+      "rating": "Approved",
+      "genre": "Comedy, Drama, Romance",
+      "description": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+      "id": "tt0053604"
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "year": "1988",
+      "rating": "Unrated",
+      "genre": "Animation, Drama, War",
+      "description": "A tragic film covering a young boy and his little sister's struggle to survive in Japan during World War II.",
+      "id": "tt0095327"
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "year": "1989",
+      "rating": "E",
+      "genre": "Action, Adventure",
+      "description": "When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.",
+      "id": "tt0097576"
+    }
+  ]

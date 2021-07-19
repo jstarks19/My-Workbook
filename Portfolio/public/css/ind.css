@@ -1,0 +1,124 @@
+
+
+
+
+
+/* HEADER */
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--color-grey);
+    z-index: 0;
+    height: 90vh;
+    padding-top: 80px;
+}
+
+.header-title span {
+    font-family: var(--font-pay);
+    font-size: 96px;
+    color: #ebeced;
+}
+
+header p {
+    font-family: var(--font-cat);
+    width: 890px;
+    color: white;
+    font-size: 36px;
+    align-self: flex-start;
+    position: relative;
+    left: 5em;
+    margin: 30px 0px 50px;
+    z-index: 5;
+}
+
+p span {
+    color: var(--color-pink);
+    font-weight: bold;
+}
+
+
+header button {
+    width: 6.5em;
+    height: 1.6em;
+    font-family: var(--font-cat);
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    background-color: var(--color-pink);
+    border: none;
+    cursor: pointer;
+    z-index: 5;
+    position: relative;
+    top: 6em;
+}
+
+.header-title {
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin: 3em 0 0 4em;
+}
+#pink-text {
+    color: var(--color-pink);
+}
+
+
+
+.angled-box {
+    background-color: #454d5a;
+    clip-path: polygon(0 33%, 100% 0%, 100% 100%, 0% 100%);
+    height: 48%;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.angled-box:nth-of-type(2) {
+    background-color: #4d5461;
+    clip-path: polygon(0 31%, 100% 0%, 100% 100%, 0% 100%);
+    height: 46%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+}
+.angled-box:nth-of-type(3) {
+    background-color: #545b67;
+    clip-path: polygon(0 30%, 100% 0%, 100% 100%, 0% 100%);
+    height: 44%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    z-index: 3;
+}
+.angled-box:nth-of-type(4) {
+    background-color: black;
+    clip-path: polygon(0 26%, 100% 0%, 100% 100%, 0% 100%);
+    height: 40%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    z-index: 4;
+}
+
+
+
+
+/* ABOUT */
+#sec-about {
+    background-color: rgba(0, 0, 0, 0.521);
+    height: 100vh;
+}
+
+/* PROJECTS */
+#sec-projects {
+
+}
+
+/* BLOG POSTS */
+#blog-posts {
+
+}
+
+

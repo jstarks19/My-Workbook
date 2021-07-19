@@ -1,0 +1,13 @@
+
+<% layout('layouts/boilerplate') %> 
+<div class="movie-info">
+    <img src="../../images/<%= movie.imgId %>.jpg" alt="" width="300px">
+    <h1><%= movie.title  %></h1>
+        
+            <span><%= movie.year %> </span> <br>
+            <span><%= movie.rating %> </span> <br>
+            <span><%= movie.description %> </span> 
+        
+    
+</div>
+<a href="/movie"><button>BACK</button></a>
